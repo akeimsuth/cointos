@@ -4,11 +4,11 @@
     "slug": "cointos",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo-white.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo-white.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#150833"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
